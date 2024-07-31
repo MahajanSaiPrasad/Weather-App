@@ -2,11 +2,15 @@
 
 ## I used open weather API to fetch data 
 
-### This  web project done in html,css,and js
+### This web project is done using html,css,and js
 
-#### Web link 
+#### GitHub link 
 
 https://github.com/MahajanSaiPrasad/Weather-App
+
+### Web Link
+
+https://MahajanSaiPrasad.github.io/Weather_webApp/
  
 ### Features of the project.
 
