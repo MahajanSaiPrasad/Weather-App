@@ -10,7 +10,7 @@ https://github.com/MahajanSaiPrasad/Weather-App
 
 ### Web Link
 
-https://MahajanSaiPrasad.github.io/Weather_webApp/
+https://mahajansaiprasad.github.io/Weather-App/
  
 ### Features of the project.
 
